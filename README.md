@@ -24,7 +24,7 @@ Run **mnemosyne.py** and paste in the base64 payload
 
 The output is the Payload length, XOR Encryption key and the Payload; all encoded
 
-##Using build-payload.py
+## Using build-payload.py
 Using the payload builder requires slight editing but nothing too complex.
 
 Just paste the encrypted payload and key from **mnemosyne.py** into the double quotes.
