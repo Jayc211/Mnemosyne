@@ -9,7 +9,7 @@ This encryption works like a charm in AV Evasion.
 ```
 git clone https://github.com/mbxisbankai/Mnemosyne
 ```
-### - Download the zip file
+### - Download the zip file from the **<> Code** area
 
 ## Usage
 Mnemosyne generates a key of the same byte size as the payload, using the xor function.
