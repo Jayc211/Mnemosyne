@@ -38,6 +38,8 @@ sudo pip3 install -r requirements.txt
 
 + The program is fully encrypted and can run without AV detection.
 
+🚩Remember to give the built payload permissions 
+
 
 
 
