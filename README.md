@@ -9,7 +9,7 @@ This encryption works like a charm in AV Evasion.
 ```
 git clone https://github.com/mbxisbankai/Mnemosyne
 cd ./Mnemosyne
-chmod +x ./Mnemosyne.py
+chmod +x Mnemosyne.py
 ```
 ### 🔴 Download the zip file from the **<> Code** area
 
