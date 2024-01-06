@@ -29,6 +29,8 @@ git clone https://github.com/mbxisbankai/Mnemosyne
 
 + Just paste the encrypted payload and key from **mnemosyne.py** into the double quotes.
 
+![Mnemosyne screenshot](https://github.com/mbxisbankai/Mnemosyne/assets/108576900/68627455-35fc-44ee-854a-490cfa5cf4c6)
+
 
 
 
