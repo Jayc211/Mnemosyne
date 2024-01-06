@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import secrets
 
 #The payload in base64 format
