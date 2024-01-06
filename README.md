@@ -18,7 +18,7 @@ git clone https://github.com/mbxisbankai/Mnemosyne
 
 + However, the payload should be entered in **base64** format.
 
-+ To convert your payload to base64, visit <a href="https://gchq.github.io/CyberChef/" target = "_blank">CyberChef</a>.
++ To convert your payload to base64, visit <a href="https://gchq.github.io/CyberChef/" target = "_blank" rel="noopener noreferrer">CyberChef</a>.
 
 + Run **mnemosyne.py** and paste in the base64 payload.
 
