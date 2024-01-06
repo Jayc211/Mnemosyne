@@ -11,7 +11,7 @@ git clone https://github.com/mbxisbankai/Mnemosyne
 cd ./Mnemosyne
 chmod +x Mnemosyne.py
 ```
-### 🔴 Download the zip file from the **<> Code** area
+### 🔴 Or download the zip file from the **<> Code** area
 
 ## Usage for mnemosyne.py
 + Mnemosyne generates a key of the same byte size as the payload, using the xor function.
