@@ -28,7 +28,7 @@ git clone https://github.com/mbxisbankai/Mnemosyne
 + Using the payload builder requires slight editing but nothing too complex.
 
 + Just paste the encrypted payload and key from **mnemosyne.py** into the double quotes.
-[SCREENSHOT]("C:\Users\ROY\Documents\Python-Ethical Hacking\Mnemosyne screenshot.png")
+
 
 
 
