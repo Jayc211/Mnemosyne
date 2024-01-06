@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import base64
 
 #Paste the xor encrypted payload from mnemosyne.py
