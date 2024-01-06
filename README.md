@@ -22,6 +22,8 @@ chmod +x ./Mnemosyne.py
 
 + To convert your payload to base64, visit <a href="https://gchq.github.io/CyberChef/" target="_blank" rel="noopener noreferrer">CyberChef</a>.
 
+  ![b64](https://github.com/mbxisbankai/Mnemosyne/assets/108576900/8da1603d-bc15-4b1d-810e-6aa126ff291f)
+
 + Run **mnemosyne.py** and paste in the base64 payload.
 
 + The output is the Payload length, XOR Encryption key and the Payload; all encoded.
