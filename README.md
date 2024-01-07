@@ -32,7 +32,7 @@ sudo pip3 install -r requirements.txt
 ## Using build-payload.py
 + Using the payload builder requires slight editing but nothing too complex.
 ```
-nano build-payload.py
+  nano build-payload.py
 ```
 + Just paste the encrypted payload and key from **mnemosyne.py** into the double quotes.
 
